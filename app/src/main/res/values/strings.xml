@@ -6,4 +6,6 @@
     <string name="dialog_confirm">Usuario registrado</string>
     <string name="hint_username">Nombre del usuario</string>
     <string name="helper_username">Obligatorio</string>
+    <string name="sp_username">Nombre de usuario</string>
+    <string name="register_success">Usuario registrado</string>
 </resources>
